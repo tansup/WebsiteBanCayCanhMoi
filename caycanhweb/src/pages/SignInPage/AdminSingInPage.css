@@ -1,0 +1,9 @@
+.admincontainer {
+  background-image: url("https://tse2.mm.bing.net/th?id=OIP.UNs4beU61zCEYpvQPMDFDQHaDm&pid=Api&P=0&h=180");
+  background-size: cover; /* Hiển thị hình ảnh ở kích thước phù hợp với kích thước của phần tử */
+  background-position: center;
+  height: 100vh; /* Căn giữa hình ảnh */
+
+  /* Đặt chiều cao cho phần tử để hình ảnh nền lấp đầy toàn bộ màn hình */
+  /* Các quy tắc CSS khác cho phần tử container */
+}

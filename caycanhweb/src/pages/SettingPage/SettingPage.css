@@ -1,0 +1,70 @@
+.pay-body{
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding: 1%;
+    background-color: #EEE;
+}
+.pay-title{
+    font-size: 22px;
+    padding-bottom: 10px;
+    border-bottom: 0.5px solid rgb(190, 190, 190);
+    height: 10%;
+}
+.setting-body{
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding: 1%;
+    background-color: #EEE;
+}
+.setting-title{
+    font-size: 22px;
+    padding-bottom: 10px;
+    border-bottom: 0.5px solid rgb(190, 190, 190);
+    height: 10%;
+}
+.setting-box{
+    margin: 2% 0;
+}
+.setting-menu{
+    border: 1px solid rgb(197, 197, 197);
+    background-color: white;
+    height: fit-content;
+    margin-right: 1%;
+    width: 24%;
+    
+}
+.setting-menu-header{
+    padding: 2% 1%;
+    background-color: rgb(216, 216, 216);
+}
+.setting-logo{
+    height: 100%;
+    width: 30%;
+}
+.logo-person-circle{
+    height: 75%;
+    width: 75%;
+}
+.setting-text{
+    width: 75%;
+    font-size: medium;
+    font-weight: bold;
+}
+.setting-menu-choice{
+    height: 50px;
+    margin: 0 7%;
+    border-bottom: 0.5px dotted rgb(190, 190, 190);
+}
+.setting-menu-choice:last-of-type{
+    border-bottom:none
+}
+.menu-choice-text{
+    width: 100%;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    
+}
+.menu-choice-text:hover{
+    color: orange;
+}

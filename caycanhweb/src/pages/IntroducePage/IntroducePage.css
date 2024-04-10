@@ -1,0 +1,97 @@
+.introduce-body{
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.carousel{
+    height: 500px;
+}
+.carousel-inner{
+    height: 100%;
+}
+.item-1{
+    height: 100%;
+    width: 100%;
+    background-image: url(../../../public/1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.item-2{
+    height: 100%;
+    width: 100%;
+    background-image: url(../../../public/2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.item-3{
+    height: 100%;
+    width: 100%;
+    background-image: url(../../../public/3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.carousel-item:hover{
+    cursor: pointer;
+}
+.introduce-banner{
+
+    width: 49%;
+    margin-left: 1%;
+    background-image: url(../../../public/4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.introduce-banner:hover{
+    cursor: pointer;
+}
+.banner-logo{
+    height: 350px;
+    width: 33%;
+    background-color: red;
+    margin-top: 0.5%;
+}
+.banner-logo-center{
+    height: 350px;
+    width: 33%;
+    margin: 0 0.5%;
+    margin-top: 0.5%;
+    background-color: red;
+}
+.logo-plant{
+    background-image: url(../../../public/5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-decoration: none;
+}
+.logo-pot{
+    background-image: url(../../../public/6.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-decoration: none;
+}
+.logo-guide{
+    background-image: url(../../../public/7.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right;
+    text-decoration: none;
+}
+.logo-text{
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    background-color: rgba(0,0,0,0.7);
+    transition: all 0.5s ease;
+}
+.logo-text:hover{
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    font-size: 25px;
+    font-weight: bold;
+    color: transparent;
+    background-color: rgba(0,0,0,0);
+    
+}

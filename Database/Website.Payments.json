@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "66168bb69a897e9bbfef3a5c"
+  },
+  "paymentId": "k2mmwEQpOS",
+  "orderId": "mh8PnuF0o2",
+  "paymentMethod": "Thanh toán khi nhận hàng",
+  "status": false,
+  "__v": 0
+}]

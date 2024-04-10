@@ -1,0 +1,51 @@
+.setting-menu-form{
+    border: 1px solid rgb(197, 197, 197);
+    background-color: white;
+    padding: 2%;
+    width: 75%;
+
+}
+.setting-title{
+    font-size: 20px;
+    padding-bottom: 10px;
+    border-bottom: 0.5px solid rgb(190, 190, 190);
+    height: 10%;
+}
+.info-form{
+    padding: 0 2.5%;
+    padding-bottom: 2%;
+    border-bottom: 0.5px solid rgb(190, 190, 190);
+}
+.input-title{
+    font-size: 18px;
+    font-weight: bolder;
+    margin-top: 2%;
+}
+.input-info-setting{
+    height: 45px;
+}
+.info-setting-logo{
+    height: 45px;
+}
+.setting-btn-reset-pass,.setting-btn-change-pass,.setting-btn-reset-info,.setting-btn-change-info{
+    width: 150px;
+    height: 35px;
+    font-size: 18px;
+    border: none;
+    background-color: orange;
+    color: white;
+}
+.setting-btn-reset-pass,.setting-btn-change-pass,.setting-btn-reset-info,.setting-btn-change-info{
+    width: 100px;
+    margin-right: 1%;
+}
+.setting-btn-reset-pass:hover,.setting-btn-change-pass:hover,.setting-btn-reset-info:hover,.setting-btn-change-info:hover{
+    background-color: rgb(211, 137, 0);
+    cursor: pointer;
+}
+.setting-button{
+    width: 100%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left: 1%;
+}

@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "65f569bb161f42e0a73f591c"
+  },
+  "accountId": "US61775039",
+  "userName": "baonguyenld",
+  "password": "1234562",
+  "role": false,
+  "email": "baonguyen.ld1220@gmail.com",
+  "phone": "0988369037"
+},
+{
+  "_id": {
+    "$oid": "66106f51b718a5c4de800b2d"
+  },
+  "accountId": "admin",
+  "userName": "admin",
+  "password": "dKHZADsz",
+  "role": true,
+  "email": "",
+  "phone": ""
+},
+{
+  "_id": {
+    "$oid": "6610942e3667ac6d205f58a9"
+  },
+  "userName": "1",
+  "password": "1",
+  "phone": "1",
+  "role": false,
+  "email": "1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661672b780ff1e965267432b"
+  },
+  "userName": "2",
+  "password": "2",
+  "phone": "2",
+  "role": false,
+  "email": "2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66168e8cfd3530f6433ac8a3"
+  },
+  "userName": "3",
+  "password": "3",
+  "phone": "3",
+  "role": false,
+  "email": "3",
+  "__v": 0
+}]

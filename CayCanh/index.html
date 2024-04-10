@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payment Page</title>
+</head>
+<body>
+    <h1>Welcome to Payment Page</h1>
+    <p>Please click the button below to proceed with payment:</p>
+    <form id="paymentForm" action="http://localhost:5000/api/v1/payment/create_payment_url" method="POST">
+        <input type="text" name="orderId">
+        <input type="text" name="amount">
+        <input type="text" name="bankCode">
+
+        <button type="submit">Proceed to Payment</button>
+    </form>
+
+
+</body>
+</html>

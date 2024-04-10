@@ -1,0 +1,163 @@
+.header{
+    margin-top: 5px;
+    height: 75px;
+    padding: 0;
+}
+.logo{
+    height: 100%;
+    background-image: url("../../../public/logo.png");
+}
+.title{
+    margin-top: 15px;
+    transform: translateX(-15px);
+    font-size: 25px;
+    color: #090;
+    font-weight: bold;
+}
+.content{
+    transform: translateX(-35px);
+    font-size: 20px;
+    color: #090;
+    font-weight: 500;
+    font-style: italic;
+    margin-bottom: 5px;
+}
+.header-search{
+    margin-top: 15px;
+}
+.input-search{
+    border-radius: 25px;
+    height: 40px;
+    width: 480px;
+    padding-left: 15px;
+    border: 0.5px solid rgb(207, 207, 207);
+}
+.input-search:focus {
+    outline: 0.5px solid rgb(160, 160, 160);
+    
+}
+.btn-search{
+    height: 40px;
+    width: 40px;
+    transform: translateX(-100%);
+    background: none;
+    border: none;
+    color: gray;
+}
+.btn-search:active {
+    color: black;
+}
+.header-cart,.header-account{
+    margin-top: 15px;
+}
+.cart{
+    height: 40px;
+    width: 150px;
+    color: white;
+    background-color: rgb(255, 176, 31);
+    border-radius: 5px;
+    text-decoration: none;
+}
+.cart:hover{
+    color: orange;
+    background-color: rgb(180, 180, 180);
+}
+.cart-Text{
+    font-weight: bold;
+}
+.account{
+    width: 180px;
+    height: 40px;
+    margin-left: -15px;
+}
+.signup{
+    height: 40px;
+    width: 180px;
+    background-color: rgb(207, 255, 237) ;
+    border-radius: 25px;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}
+.signin{
+    height: 40px;
+    position: absolute;
+    width: 100px;
+    color: white;
+    font-weight: bold;
+    transform: translateX(45%);
+    text-decoration: none;
+    background-color: #04aa6d;
+    border-radius: 25px;
+}
+.btn-account{
+    height: 40px;
+    position: absolute;
+    width: 100px;
+    color: white;
+    font-weight: bold;
+    padding-left: 0.1%;
+    text-decoration: none;
+    background-color: #04aa6d;
+    border-radius: 25px;
+}
+.btn-account:hover{
+    background-color: rgb(149, 214, 52) ;
+    cursor: pointer;
+}
+.signin:hover{
+    background-color: rgb(149, 214, 52) ;
+    cursor: pointer;
+}
+.signup:hover{
+    background-color: rgb(218, 255, 163) ;
+    cursor: pointer;
+}
+.navbar{
+    background-color: rgb(0, 173, 0);
+    padding: 0;
+}
+.nav-item{
+    width: 170px;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+}
+.nav-item:hover{
+    background-color: rgb(0, 134, 0);
+}
+.nav-link{
+    color: white;
+}
+.nav-link:hover{
+    color: rgb(175, 175, 175);
+}
+.dropdown-menu-caycanh {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #fff;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    background-color: rgb(0, 173, 0);
+
+ }
+ .dropdown-menu-chaucanh{
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #fff;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    background-color: rgb(0, 173, 0);
+ }
+ .item-caycanh,.item-chaucanh{
+    color: white;
+    font-weight: bold;
+ }
+.item-caycanh:hover,.item-chaucanh:hover{
+    background-color: rgb(0, 134, 0);
+}
+.dropdown:hover .dropdown-menu-caycanh {
+  display: block;
+}

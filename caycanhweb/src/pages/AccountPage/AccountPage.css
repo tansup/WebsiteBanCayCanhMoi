@@ -1,0 +1,132 @@
+.account-body{
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding: 1%;
+
+    background-color: #EEE;
+
+}
+
+.account-title{
+    font-weight: bold;
+    font-size: 18px;
+    padding-bottom: 10px;
+    border-bottom: 0.5px solid rgb(190, 190, 190);
+    height: 10%;
+}
+.account-content{
+    margin-left: 2%;
+    font-weight: lighter;
+}
+.content-link{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 14px;
+    color: orange;
+}
+.content-link:hover{
+    color: green;
+}
+.account-form{
+    height: 80%;
+    border-bottom: 0.5px solid rgb(190, 190, 190);
+    
+}
+.form-log{
+    height: 96%;
+    width: 48%;
+    margin: 0.5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+
+}
+.other-log{
+    width: 48%;
+    margin: 0.5%;
+    border-left: 0.5px solid rgb(218, 216, 216);
+}
+.other-log-choice{
+    height: 35px;
+    width: 250px;
+    margin-bottom: 1%;
+    border: 0.5px solid rgb(218, 216, 216);
+    border-radius: 5px;
+    color: white;
+}
+.choice-logo{
+    height: 30px;
+    width: 30px;
+    border-right: 0.5px solid rgb(218, 216, 216);
+    margin-top: 1%;
+    
+}
+.choice-content{
+    margin-left: 5%;
+    margin-top: 1%;
+}
+.choice-g{
+ background-color: #dd4b39;
+}
+.choice-f{
+    background-color: #3b5998;
+}
+.choice-g:hover{
+background-color: #d82f18;
+cursor: pointer;
+}
+.choice-f:hover{
+background-color: #204699;
+cursor: pointer;
+}
+.other-log-content{
+    margin-bottom: 2%;
+}
+.email,.pass,.phone,.name{
+    width: 75%;
+    margin-bottom: 2%;
+}
+.captcha{
+    width: 75%;
+}
+.captcha-text{
+    width: 50%;
+    margin-left: 5%;
+}
+.account-button{
+    width: 100%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.account-btn-log,.account-btn-delete,.account-btn-logup,.account-btn-takepass{
+    width: 150px;
+    height: 35px;
+    font-size: 18px;
+    border: none;
+    background-color: orange;
+    color: white;
+}
+.account-btn-delete,.account-btn-logup,.account-btn-takepass{
+    width: 100px;
+    margin-right: 1%;
+}
+.account-btn-log:hover,.account-btn-delete:hover,.account-btn-logup:hover,.account-btn-takepass:hover{
+    background-color: rgb(211, 137, 0);
+    cursor: pointer;
+}
+.account-link{
+    margin-top: 1%;
+}
+.link-takepass,.link-login{
+    border-right: 0.5px solid rgb(218, 216, 216);
+    padding-right: 1%;
+}
+.link-takepass,.link-logup,.link-login{
+    text-decoration: none;
+    margin-top: 1%;
+    margin-right: 10px;
+    color: black;
+}
+.link-takepass:hover,.link-logup:hover,.link-login:hover{
+    color: orange;
+}
+   

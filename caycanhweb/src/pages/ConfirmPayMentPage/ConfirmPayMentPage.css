@@ -1,0 +1,50 @@
+.confirm-body{
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding: 1%;
+    background-color: #EEE;
+}
+
+.confirm-title{
+    font-weight: bold;
+    font-size: 25px;
+    padding-bottom: 10px;
+    border-bottom: 0.5px solid rgb(190, 190, 190);
+    height: 10%;
+}
+.box-verify{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.verify{
+    margin-top: 1%;
+    width: 300px;
+}
+.confirm-btn-verify{
+    width: 150px;
+    height: 35px;
+    font-size: 18px;
+    border: none;
+    background-color: orange;
+    color: white;
+}
+.confirm-btn-verify:hover{
+    background-color: rgb(211, 137, 0);
+    cursor: pointer;
+}
+.confirm-button{
+    width: 100%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    display: flex;
+    justify-content: center;
+}
+.confirm-link-verify{
+    text-decoration: none;
+    color: white;
+}
+.confirm-link-verify:hover{
+    text-decoration: none;
+    color: white;
+}

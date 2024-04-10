@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "65f5682d161f42e0a73f591a"
+  },
+  "customerId": "CI20782898",
+  "Name": "Nguyễn Văn Bảo",
+  "address": "156 Trần thị Nơi, P.4, Q.8",
+  "phone": "0937250351",
+  "age": 24
+},
+{
+  "_id": {
+    "$oid": "65f6b2b72cfd3b3f3df7b809"
+  },
+  "customerId": "ADI92044766",
+  "Name": "Trần Trung nguyên",
+  "address": "347 Nguyễn Trãi,Nguyễn Cư Trinh, Q.1, Hồ Chí Minh, Việt Nam",
+  "phone": "0934761592",
+  "age": 26
+}]

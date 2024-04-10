@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "65f4866b23d414b60e33e1e2"
+  },
+  "maDanhMuc": "PL71309576",
+  "tenDanhMuc": "Cây cảnh"
+},
+{
+  "_id": {
+    "$oid": "65f4877e23d414b60e33e1e9"
+  },
+  "maDanhMuc": "PO67156722",
+  "tenDanhMuc": "Chậu cảnh"
+}]

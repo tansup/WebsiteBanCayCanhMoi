@@ -1,0 +1,79 @@
+.cart-body {
+  margin-top: 1%;
+  margin-bottom: 1%;
+  padding: 1%;
+
+  background-color: #eee;
+}
+.cart-title {
+  font-size: 22px;
+  padding-bottom: 10px;
+  border-bottom: 0.5px solid rgb(190, 190, 190);
+  height: 10%;
+}
+.cart-link {
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+}
+.cart-link:hover {
+  color: orange;
+}
+.list-content {
+  color: rgb(175, 175, 175);
+}
+.cart-button {
+  width: 100%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+.cart-total {
+  width: 100%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  padding-right: 2%;
+  border-top: 0.5px solid rgb(190, 190, 190);
+  border-bottom: 0.5px solid rgb(190, 190, 190);
+  font-size: 24px;
+  color: red;
+  font-weight: bold;
+}
+.cart-btn-success,
+.cart-btn-add {
+  width: 150px;
+  height: 35px;
+  font-size: 18px;
+  border: none;
+  background-color: orange;
+  color: white;
+}
+.cart-btn-success {
+  margin-right: 1%;
+}
+.cart-btn-success:hover,
+.cart-btn-add:hover {
+  background-color: rgb(211, 137, 0);
+  cursor: pointer;
+}
+.table-header {
+  background-color: rgb(214, 214, 214);
+}
+.item-btn-delete {
+  background-color: transparent;
+  color: red;
+  width: 50%;
+}
+.row-name {
+  width: 400px;
+}
+.table-row {
+  height: 150px;
+}
+.cart-row-img {
+  height: 100px;
+  width: 100px;
+
+  background-position: center;
+  object-fit: scale-down;
+  background-size: cover;
+}

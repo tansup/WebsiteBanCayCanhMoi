@@ -1,0 +1,51 @@
+.footer{
+    background-image: url("../../../public/paper.gif");
+    height: 450px;
+}
+.footer-title{
+    font-size: 20px;
+    font-weight: 900;
+    color: rgb(2, 185, 2);
+    margin-top: 10px;
+}
+.content-address,.content-person{
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+.content-mail {
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.person-text{
+    margin-left: 5px;   
+}
+.mail-text{
+    margin-left: 10px;
+    margin-top: -5px;
+}
+.address-text{
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.content-row{
+    margin-bottom: 15px;
+}
+.row-icon{
+    margin-top: 5px;
+    color: rgb(211, 211, 2);
+    
+}
+.row-content{
+    margin-left: 10px;
+    font-size: 18px;
+}
+.name-list,.list-item{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
+    color: rgb(0, 202, 0);
+}
+.name-list:hover,.list-item:hover{
+    color: rgb(255, 255, 255);
+}

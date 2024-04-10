@@ -1,0 +1,675 @@
+[{
+  "_id": {
+    "$oid": "65f49f06b2ec669e500b6d25"
+  },
+  "maSP": "AN31583688",
+  "tenSP": "Cây Trầu Bà Sữa",
+  "kichThuoc": "Cao từ 20 – 25 cm",
+  "moTa": "Trầu Bà Sữa là cây thân thảo dạng leo, lá đơn, gốc lá hình tim, thuôn dài ở đỉnh, trên lá có nhiều đốm trắng, cụm hoa dạng mo, cuống ngắn, bò dài hoặc buông thõng xuống trên các chậu treo, rất dễ sống vàcó tốc độ phát triển và sinh trưởng nhanh ở trong điều kiện bóng râm. Cây phù hợp để phòng khách, trang trísảnh, treo của sổ, hiên nhà, quán nhậu, quán cà phê hoặc để bàn làm việc.",
+  "gia": 130000,
+  "hinhAnh": "https://backend-caycanh.onrender.com/19.jpg",
+  "soLuong": 48,
+  "xuatSu": "Việt Nam",
+  "maLoai": "TA47597777"
+},
+{
+  "_id": {
+    "$oid": "65f49f06b2ec669e500b6d26"
+  },
+  "maSP": "AO56093315",
+  "tenSP": "Cây Ngọc Ngân",
+  "kichThuoc": "Cao từ 20 – 60 cm",
+  "moTa": "Cây ngọc ngân có rễ chùm, hoa có màu trắng hoặc xanh, hình trụ, màu hoa tương tự màu lá tỉ lệ màu trắng hơn xanh. Ngoài màu xanh thường thấy thì còn có cây ngọc ngân màu đỏ, chỉ khác là cây có màu đỏ đan xen với xanh. Cây còn là loài cây có giá trị thẩm mỹ cao, thường được dùng để trang trí nhà cửa, vườn tược, các công trình cây quan để tạo không gian thoáng mát. Hơn nữa cây còn giúp lọc sạch không khí, loại bỏ bụi bặm.",
+  "gia": 220000,
+  "hinhAnh": "https://backend-caycanh.onrender.com/20.jpg",
+  "soLuong": 23,
+  "xuatSu": "Nam Trung Quốc, Thái Lan, Philippin,...",
+  "maLoai": "TA47597777"
+},
+{
+  "_id": {
+    "$oid": "65f49f06b2ec669e500b6d27"
+  },
+  "maSP": "AL88121864",
+  "tenSP": "Cây Vạn Lộc",
+  "kichThuoc": "Cao từ 15 – 30 cm",
+  "moTa": "Cây Vạn Lộc là cây thân thảo, có lá màu hồng đậm khi già, lá non màu hồng nhạt, có rễ chùm, dễ sống và chăm sóc. Cây không chỉ mang lại sự màu mỡ cho không gian sống mà còn được coi là một biện pháp để cải thiện năng lượng tích cực và thu hút may mắn cho gia đình hoặc công việc.",
+  "gia": 190000,
+  "hinhAnh": "https://backend-caycanh.onrender.com/21.jpg",
+  "soLuong": 18,
+  "xuatSu": "Thái Lan",
+  "maLoai": "TA47597777"
+},
+{
+  "_id": {
+    "$oid": "65f49f06b2ec669e500b6d28"
+  },
+  "maSP": "AL88121865",
+  "tenSP": "Cây Hồng Môn",
+  "kichThuoc": "Cao từ 25 – 55 cm",
+  "moTa": "Cây Hồng Môn toát lên vẻ đẹp quý phái nhưng hoa hồng môn lại mang nét đặc trưng riêng, bình dị và gần gũi. Hoa hồng môn mọc thành cụm dạng mo trên một cuống dài và cong. Mo màu đỏ tươi, hình bầu dục đầu nhọn, góc hình tim, nổi rõ gân xanh. Cụm hoa cong màu vàng nhạt. Ngoài tác dụng trang trí không gian làm việc, cây hồng môn còn có ý nghĩa mang đến sự may mắn, thuận lợi và tài lộc.",
+  "gia": 250000,
+  "hinhAnh": "https://backend-caycanh.onrender.com/cay-hong-mon-de-ban-vcv.jpg",
+  "soLuong": 30,
+  "xuatSu": "Colombia",
+  "maLoai": "TA47597777"
+},
+{
+  "_id": {
+    "$oid": "65f49f06b2ec669e500b6d29"
+  },
+  "maSP": "SP18283418",
+  "tenSP": "Cây Lưỡi Hổ",
+  "kichThuoc": "Cao từ 30 – 60 cm",
+  "moTa": "Thân hình cây dạng dẹt, mọng nước, nhìn hơi sắc nhọn nguy hiểm nhưng thân lại rất mềm, không làm đứt tay khi ta chạm vào. Cây lưỡi hổ thường được trồng và đặt ở phòng khách - là nơi thể hiện phong cách riêng, nét riêng của gia chủ. Lưỡi hổ thích hợp đặt ngay cạnh kệ tivi ở phòng khách, hay ghế sofa, hoặc ở ngay hai bên lối đi của cửa ra vào, cũng là một cách để xua đuổi những điều không tốt và mang vận may đến gia đình.",
+  "gia": 210000,
+  "hinhAnh": "https://backend-caycanh.onrender.com/cay-luoi-ho-5.jpg",
+  "soLuong": 26,
+  "xuatSu": "Vùng nhiệt đới Châu Mỹ, Châu Phi và Châu Á",
+  "maLoai": "TA47597777"
+},
+{
+  "_id": {
+    "$oid": "65f49f06b2ec669e500b6d2a"
+  },
+  "maSP": "ZZ54378079",
+  "tenSP": "Cây Kim Tiền",
+  "kichThuoc": "Cao từ 30 – 60 cm",
+  "moTa": "Cây kim tiền mọc thành bụi, lá mọc đối xứng có màu xanh bóng. Thân cây mọc vươn thẳng, mọng nước và phình to ở phần gốc. Cây kim tiềncòn được xem là cây phong thuỷ được nhiều gia chủ làm nghề kinh doanh, buôn bán chọn trồng. Nhiều người tin rằng,trồng cây kim tiền trong nhà hoặc nơi làm việc, kinh doanh sẽ mang lại sự may mắn về tiền bạc, tài lộc và thành công.",
+  "gia": 240000,
+  "hinhAnh": "https://backend-caycanh.onrender.com/22.jpg",
+  "soLuong": 9,
+  "xuatSu": "Châu Phi",
+  "maLoai": "TA47597777"
+},
+{
+  "_id": {
+    "$oid": "65f504d1de2fd1ea9253a1ef"
+  },
+  "maSP": "SP25044762",
+  "tenSP": "Cây Tróc Bạc thủy sinh",
+  "kichThuoc": "Cao từ 15 – 35 cm",
+  "moTa": "Cây Tróc Bạc Thủy Sinh được biết đến nhờ sức sống mãnh liệt, và màu sắc lá khá nổi trội, nên cây rất hay được lựa chọn trồng. Nhưng ít người biết rằng cây cũng có làm tăng độ ẩm không khí, hấp thu các khí có hại như amoni và aldehyde formic và một sống chất độc ở thể khí, nếu bạn không quá cầu kỳ về phong thủy, chỉ cần có cây xanh, sống lâu và tác dụng tốt thì cây Tróc Bọc Thủy Sinh là một lựa chọn tuyệt vời.",
+  "gia": 135000,
+  "hinhAnh": "https://backend-caycanh.onrender.com/23.jpg",
+  "soLuong": 13,
+  "xuatSu": "Trung Mỹ và Mexico",
+  "maLoai": "AQ63584597"
+},
+{
+  "_id": {
+    "$oid": "65f504d1de2fd1ea9253a1f0"
+  },
+  "maSP": "HO17676429",
+  "tenSP": "Cây Hoa Tiên Ông (Dạ Lan Hương)",
+  "kichThuoc": "Cao từ 20 – 30 cm",
+  "moTa": "Hoa Tiên Ông có mùi thơm dễ chịu, thích hợp để trong phòng khách và bàn làm việc, khi nở có rất nhiều màu sắc như trắng, hồng, đỏ, Mọi người ưa thích hoa Tiên Ông có lẽ vì đây là loài hoa đặc biệt, vừa có sắc vừa có hương, mang một vẻ đẹp tinh khiết và thanh cao, đặc biệt việc trồng và chăm sóc hoa rất đơn giản và hoa cũng ít bị sâu bệnh. Có lẽ vì vậy mà hoa Tiên Ông rất được ưa chuộng mấy năm gần đây, nhất là mỗi dịp tết đến xuân về.",
+  "gia": 110000,
+  "hinhAnh": "https://backend-caycanh.onrender.com/cay-hoa-tien-ong-vuon-cay-viet.jpg",
+  "soLuong": 7,
+  "xuatSu": "Địa Trung Hải",
+  "maLoai": "AQ63584597"
+},
+{
+  "_id": {
+    "$oid": "65f504d1de2fd1ea9253a1f1"
+  },
+  "maSP": "AV89774684",
+  "tenSP": "Cây Nha Đam Thuỷ Sinh",
+  "kichThuoc": "Cao từ 15 – 25 cm",
+  "moTa": "Nha Đam thủy sinh có dáng vươn thẳng đại diện cho ý chí quyết tâm vượt quá khó khăn trong cuộc sống. Cây được trang trí trong nhà sẽ là biểu tượng cho ý chí sắc bén, kiên trì và dễ đạt được nhiều thành công trong sự nghiệp.Nha Đam thủy sinh có khả năng hút bụi bẩn, lọc không khí mang lại không gian xanh – sạch – chất lượng cho cả không gian sống.",
+  "gia": 135000,
+  "hinhAnh": "https://backend-caycanh.onrender.com/cay-nha-dam-thuy-sinh.png",
+  "soLuong": 22,
+  "xuatSu": "Trung cận Đông",
+  "maLoai": "AQ63584597"
+},
+{
+  "_id": {
+    "$oid": "65f504d1de2fd1ea9253a1f2"
+  },
+  "maSP": "AC76716460",
+  "tenSP": "Cây Cau Tiểu Trâm thuỷ sinh",
+  "kichThuoc": "Cao từ 40 – 50 cm",
+  "moTa": "Cau tiểu trâm hay còn được gọi là dừa tụ thân là một trong những loại cây cảnh nội thất rất được ưa chuộng hiện nay. Với tán lá xanh mượt và đặc tính lọc sạch các chất khí độc, cau tiểu trâm mang lại không khí trong lành, bởi vậy cau tiểu trâm được lựa chọn làm món quà tặng trong các dịp sinh nhật, lễ tết, ngày đặc biệt. Cây có thể sống tốt trong môi trường đất hoặc nước, bởi vậy người ta thường hay đặt cây trong các chậu thuỷ tinh với dung dịch thuỷ sinh để mang lại một vẻ đẹp khác cho không gian.",
+  "gia": 240000,
+  "hinhAnh": "https://backend-caycanh.onrender.com/cay-cau-tieu-tram-thuy-sinh.jpg",
+  "soLuong": 11,
+  "xuatSu": "Châu á",
+  "maLoai": "AQ63584597"
+},
+{
+  "_id": {
+    "$oid": "65f504d1de2fd1ea9253a1f3"
+  },
+  "maSP": "WS38850536",
+  "tenSP": "Cây Bạch Mã Hoàng Tử thủy sinh",
+  "kichThuoc": "Cao từ 30 – 50 cm",
+  "moTa": "Cây Bạch Mã Hoàng Tử là loại cây được sử dụng chủ yếu bởi màu sắc đẹp của lá, lá phát triển chậm, ít rụng. Lá cây hình thuôn dài, mép lá nguyên, gân lá có màu trắng cùng với cuống lá, lá mềm mọng nước, thân cây thường có hình đốt khi lá rụng để lại các đoạn thân nhỏ nối liền ở cổ rễ và cuống lá. Cây xanh tốt quanh năm, cây có hình dáng nhỏ thường được bài trí trên bàn làm việc, tạo không gian tươi mát, thư giãn cho mọi người.",
+  "gia": 200000,
+  "hinhAnh": "https://backend-caycanh.onrender.com/26.jpg",
+  "soLuong": 18,
+  "xuatSu": "Châu Á nhiệt đới",
+  "maLoai": "AQ63584597"
+},
+{
+  "_id": {
+    "$oid": "65f504d1de2fd1ea9253a1f4"
+  },
+  "maSP": "DD67182173",
+  "tenSP": "Cây Phát Tài Búp Sen thuỷ sinh",
+  "kichThuoc": "Cao từ 25 – 35 cm",
+  "moTa": "Cây có thân mọc thẳng, phân đốt, màu xanh, lá dài màu xanh đậm, nhẵn, thuôn nhọn về phía đầu, cuống tạo thành bẹ ôm lấy thân. Cây có sức sống dẻo dai và mang vẻ đẹp hoàn hảo từ thân lá đến bộ rễ; nên rất được ưa chuộng trồng chậu trang trí nội thất; trưng bày bàn làm việc, bàn phòng khách, bàn tiếp tân, bàn thờ thần linh…",
+  "gia": 135000,
+  "hinhAnh": "https://backend-caycanh.onrender.com/27.jpg",
+  "soLuong": 19,
+  "xuatSu": "Châu Á",
+  "maLoai": "AQ63584597"
+},
+{
+  "_id": {
+    "$oid": "65f513b8de2fd1ea9253a200"
+  },
+  "maSP": "OM84727958",
+  "tenSP": "Xương Rồng Tai Thỏ",
+  "kichThuoc": "Cao từ 50 – 70 cm",
+  "moTa": "Xương Rồng Tai Thỏ mang các đặc điểm của loại cây xương rồng với thân ngập nước, có nhiều gai,... Thân cây xương rồng tai thỏ có màu xanh, xếp thành từng hàng, từ một thân chính mọc ra nhiều nhánh nhỏ. Số nhánh thường là hai nhánh, cái tên xương rồng tai thỏ này xuất phát từ hình dáng bên ngoài của loại cây này với hai nhánh giống như hai tai thỏ. Cây tượng trưng cho sự bền chặt, lâu dài trong tình bạn, tình yêu Đại diện cho sự không ngừng cố gắng vươn lên, tạo năng lượng tích cực trong cuộc sống",
+  "gia": 270000,
+  "hinhAnh": "https://backend-caycanh.onrender.com/28.png",
+  "soLuong": 14,
+  "xuatSu": "Mexico",
+  "maLoai": "SLCA452863"
+},
+{
+  "_id": {
+    "$oid": "65f513b8de2fd1ea9253a201"
+  },
+  "maSP": "EC61389411",
+  "tenSP": "Cây Xương Rồng Vạn Lý Trường Thành",
+  "kichThuoc": "Cao từ 10 – 15 cm",
+  "moTa": "Cây Xương Rồng Vạn Lý Trường Thành là cây thân thẳng có gai có thể cao hoặc thấp, bề mặt thân trên xòe uốn lượn như dãy vạn lý trường thành, thường có màu sắc hồng thẫm pha trắng. Là loại cây mọng nước dễ trồng, ưa sáng, có khả năng chịu hạn tốt có thể trồng ngoài trời hoặc trong bóng râm. Cây mang vẻ đẹp khỏe khoắn, căng tràn nhựa sống, và cực kỳ phá cách bằng màu hồng xinh xắn nổi bật hẳn giữa tán lá xanh tươi mát. Cây đặc biệt thích hợp trồng chậu trang trí nội thất cũng như tạo nên điểm nhấn cho khu vườn ",
+  "gia": 175000,
+  "hinhAnh": "https://backend-caycanh.onrender.com/29.jpg",
+  "soLuong": 32,
+  "xuatSu": "Trung Quốc",
+  "maLoai": "SLCA452863"
+},
+{
+  "_id": {
+    "$oid": "65f513b8de2fd1ea9253a202"
+  },
+  "maSP": "ME57820709",
+  "tenSP": "Cây Xương Rồng Thạch Trụ Thiên",
+  "kichThuoc": "Cao từ 10 – 12 cm",
+  "moTa": "Xương Rồng có hình dáng thân là hình trụ thon dài, mọng nước, màu xanh thẫm. Bề mặt của thân cây gai góc được bao bọc bởi mạng lưới núm gai nhọn, màu vàng. Những núm gai nhọn này đặc biệt ở chỗ chúng rất mềm và mảnh, không gây tổn thương đến da. Với kích thước nhỏ nhắn cùng vẻ ngoài thú vị thì chúng luôn được chọn để trang trí những quán cà phê theo phong cách này. Ngoài ra, chúng còn hay được sử dụng để trang trí bàn học, bàn phòng khách hay phòng ngủ. Ở mỗi vị trí khác nhau chúng tỏa ra mỗi nét đẹp khác nhau, cảm giác như chúng phù hợp trang trí mọi nơi.",
+  "gia": 80000,
+  "hinhAnh": "https://backend-caycanh.onrender.com/30.jpg",
+  "soLuong": 26,
+  "xuatSu": "Việt Nam",
+  "maLoai": "SLCA452863"
+},
+{
+  "_id": {
+    "$oid": "65f513b8de2fd1ea9253a203"
+  },
+  "maSP": "EC77179191",
+  "tenSP": "Cây Xương Rồng Bí Xanh",
+  "kichThuoc": "Cao từ 3 – 9 cm",
+  "moTa": "Cây Xương Rồng Bí Xanh mang một vẻ đẹp của tình yêu thuỷ chung, một lòng một dạ son sắt, cùng nhau bước qua mọi chông gai, thử thách của cuộc sống để hái lấy những ngọt ngào mà phấn đấu ban tặng. Cây còn mang lại một công dụng hữu ích là hút được các tia bức xạ có hại của thiết bị điện tử có hại cho sức khỏe. Đấy, loại xương rồng này đẹp cả trong lẫn ngoài.",
+  "gia": 125000,
+  "hinhAnh": "https://backend-caycanh.onrender.com/31.jpg",
+  "soLuong": 27,
+  "xuatSu": "Mỹ",
+  "maLoai": "SLCA452863"
+},
+{
+  "_id": {
+    "$oid": "65f513b8de2fd1ea9253a204"
+  },
+  "maSP": "MG95651084",
+  "tenSP": "Cây Xương Rồng Trứng Chim",
+  "kichThuoc": "Cao từ 5 – 10 cm",
+  "moTa": "Xương Rồng Trứng Chim là loại Xương Rồng có thân mềm mại và không nhiều gai nhọn như các giống cây Xương Rồng thường thấy khác. Xung quanh cây có những gai nhỏ mềm mại, đan lại với nhau như tấm màng nhện nhỏ hay tựa những bông tuyết màu trắng bao bọc lấy thân cây.",
+  "gia": 35000,
+  "hinhAnh": "https://backend-caycanh.onrender.com/cay-xuong-rong-trung-chim-1.jpg",
+  "soLuong": 25,
+  "xuatSu": "Việt Nam",
+  "maLoai": "SLCA452863"
+},
+{
+  "_id": {
+    "$oid": "65f513b8de2fd1ea9253a205"
+  },
+  "maSP": "MP12423136",
+  "tenSP": "Cây Xương Rồng Bông Gòn",
+  "kichThuoc": "Cao từ 5 – 10 cm",
+  "moTa": "Cây Xương Rồng Bông Gòn có hình tròn và được bao phủ một lớp gai trắng mềm, lớp gai này không cứng, cây phát triển theo dạng bụi, cây còn có hoa nhỏ màu trắng, hồng, vàng tạo nên một sức cuốn hút khác biệt so với các dòng cây xương rồng khác hiện nay. Với nét đẹp độc đáo và lạ mắt, Cây Xương Rồng Bông Gòn được đông đảo tín đồ yêu thích và dùng để trang trí nơi ở. Không khó để bắt gặp những chậu mami dễ thương ở quán cà phê, tiệm sách,…Đặt cây trong nhà còn mang lại ý nghĩa phong thuỷ may mắn cho người sở hữu.",
+  "gia": 30000,
+  "hinhAnh": "https://backend-caycanh.onrender.com/33.jpg",
+  "soLuong": 40,
+  "xuatSu": "Nước ngoài",
+  "maLoai": "SLCA452863"
+},
+{
+  "_id": {
+    "$oid": "65f51cb8de2fd1ea9253a20a"
+  },
+  "maSP": "CL75969075",
+  "tenSP": "Sen Đá Sedum Xanh",
+  "kichThuoc": "Cao từ 5 – 7 cm",
+  "moTa": "Sen Đá Sedum Xanh có tính chất mọc thành bụi với các cành lá xanh mạ non. Một màu sắc trong xanh khiến người dân chơi cây cảnh như đắm chìm vào sự trong sáng. Là loài cây phong thủy đem lại sự bình an may mắn cho mỗi người. Cây có sức sống mạnh mẽ, tượng trưng cho tình bạn, tình yêu son sắt.",
+  "gia": 25000,
+  "hinhAnh": "https://backend-caycanh.onrender.com/34.jpg",
+  "soLuong": 40,
+  "xuatSu": "Mexico, tây bắc Nam Mỹ.",
+  "maLoai": "SLCA452863"
+},
+{
+  "_id": {
+    "$oid": "65f51cb8de2fd1ea9253a20b"
+  },
+  "maSP": "SBE3210386",
+  "tenSP": "Sen Thược Dược",
+  "kichThuoc": "Cao từ 10 – 20 cm",
+  "moTa": "Sen Đá Thược Dược được biết đến là biểu tượng của tình yêu đôi lứa lâu bền và tình bạn bền vững theo thời gian. Chúng nói lên ý chí, tính kiên cường có thể vượt qua mọi khó khăn, thử thách của con người. Người ta tin rằng, nếu trồng một chậu sen đá này trong nhà sẽ giúp đem lại nhiều điều tốt lành, giải vận xui. Đồng thời mang lại may mắn, tiền tài, hạnh phúc và thành công cho gia chủ. Trong phong thủy Sen Đá Thược Dược còn giúp bày tỏ mong ước về sự đủ đầy, may mắn.",
+  "gia": 35000,
+  "hinhAnh": "https://backend-caycanh.onrender.com/35.png",
+  "soLuong": 43,
+  "xuatSu": "Mexico",
+  "maLoai": "SLCA452863"
+},
+{
+  "_id": {
+    "$oid": "65f51cb8de2fd1ea9253a20c"
+  },
+  "maSP": "HM74672660",
+  "tenSP": "Cây Sen Ngọc Guốc",
+  "kichThuoc": "Cao từ 7 – 12 cm",
+  "moTa": "Sen đá Ngọc Guốc là một trong những loại sen đá có hình dáng khá độc đáo, nếu bạn vặt 1 chiếc lá của cây ra rồi đặt xuống đất thì sẽ thấy nó giống như hình chiếc guốc chính vì vậy mà cây có tên là sen đá Ngọc Guốc, cây mang ý nghĩa cho một tình yêu và tình bạn vĩnh cửu, rất thích hợp dành cho những bạn thích sự độc đáo và mới lạ, cây phù hợp làm cây cảnh để bàn, tặng nhau trong các dịp sinh nhật…",
+  "gia": 45000,
+  "hinhAnh": "https://backend-caycanh.onrender.com/36.jpg",
+  "soLuong": 33,
+  "xuatSu": "bán hoang mạc Trung Mỹ, từ Mexico tới tây bắc Nam Mỹ",
+  "maLoai": "SLCA452863"
+},
+{
+  "_id": {
+    "$oid": "65f51cb8de2fd1ea9253a20d"
+  },
+  "maSP": "CSL3372228",
+  "tenSP": "Cây Sen Đá Phật Bà",
+  "kichThuoc": "Cao từ 3 – 7 cm",
+  "moTa": "Sen Đá Phật Bà được nhiều người ưa thích không chỉ vì vẻ ngoài sang trọng và trang nhã, mà còn vì loại cây này còn mang đến nhiều ý nghĩa và tác dụng có lợi khác.Sen Đá Phật Bà có sức sống rất mãnh liệt, và được xem như là biểu tượng của một tình bạn và tình yêu bền đẹp, vĩnh cửu không đổi thay. Bên cạnh đó, cây sen đá này còn mang tài lộc, may mắn, bình an và hạnh phúc cho người trồng như được quan âm bên cạnh phù hộ.",
+  "gia": 55000,
+  "hinhAnh": "https://backend-caycanh.onrender.com/37.jpg",
+  "soLuong": 21,
+  "xuatSu": "Việt Nam",
+  "maLoai": "SLCA452863"
+},
+{
+  "_id": {
+    "$oid": "65f51cb8de2fd1ea9253a20e"
+  },
+  "maSP": "HCVT183026",
+  "tenSP": "Cây Sen Đá Kim Cương",
+  "kichThuoc": "Cao từ 5 – 13 cm",
+  "moTa": "Sen Đá Kim Cương có cái tên hấp dẫn và sang trọng này là từ ngoại hình cây. Giống cây này có thể phát lên những nguồn ánh sáng trong suốt, đẹp mắt như kim cương. Loại cây được mọc thành chùm với lá cây căng mọng nước và khó nhìn được phần rễ. Đây là một loại cây được cho là có khả năng phát triển mạnh mẽ. Cây sen đá này rất dễ trồng và cách chăm sóc đơn giản không tốn nhiều thời gian. Cây vừa có vẻ đẹp quyến rũ vừa dễ chăm sóc nên được nhiều người yêu thích.",
+  "gia": 120000,
+  "hinhAnh": "https://backend-caycanh.onrender.com/38.jpg",
+  "soLuong": 19,
+  "xuatSu": "Bắc bán cầu hoặc Nam Phi",
+  "maLoai": "SLCA452863"
+},
+{
+  "_id": {
+    "$oid": "65f51cb8de2fd1ea9253a20f"
+  },
+  "maSP": "PHVT885730",
+  "tenSP": "Cây Nhất Mạt Hương",
+  "kichThuoc": "Cao từ 10 – 20 cm",
+  "moTa": "Thân cây bóng tròn, mọng nước, nhìn bề ngoài khá giống với cây Húng Bạc Hà. Lá Nhất Mạt Hương khá dày, có hình ô van nhỏ màu xanh lục, mép lá có hình gợn sóng như những chiếc răng cưa. Trên bề mặt lá là lớp lông mỏng có màu trắng. Trên lá có một mùi hương nhẹ của bạc hà, lá hình tròn ô van, mép lá lượn sóng, được bao phủ bằng một lớp lông mỏng, khi chạm tay vào lá thì mùi hương sẽ tỏa ra nhiều hơn. Có tác dụng đuổi muỗi phù hợp để bàn làm việc, bàn học",
+  "gia": 200000,
+  "hinhAnh": "https://backend-caycanh.onrender.com/cay-nhat-mat-huong-db074-1.jpg",
+  "soLuong": 15,
+  "xuatSu": "Nam Phi",
+  "maLoai": "SLCA452863"
+},
+{
+  "_id": {
+    "$oid": "65f52832de2fd1ea9253a212"
+  },
+  "maSP": "EG38589653",
+  "tenSP": "Cây Hoa Thanh Tú Chậu Treo",
+  "kichThuoc": "Cao từ 20 – 50 cm",
+  "moTa": "Hoa Thanh Tú mang ý nghĩa về sự thanh khiết, sự yên bình. Bên cạnh đó, hoa còn tượng trưng cho tinh thần bền bỉ, lạc quan và đại diện cho ý chí kiên cường, vượt lên những khó khăn trong cuộc sống. Trong phong thủy, hoa Thanh Tú mang đến cho gia chủ sự yên bình, lan tỏa năng lượng tích cực cho các thành viên trong gia đình.",
+  "gia": 90000,
+  "hinhAnh": "https://backend-caycanh.onrender.com/40.jpg",
+  "soLuong": 15,
+  "xuatSu": "Australasia, Indomalaya, ,...",
+  "maLoai": "HP71746869"
+},
+{
+  "_id": {
+    "$oid": "65f52832de2fd1ea9253a213"
+  },
+  "maSP": "SM33257520",
+  "tenSP": "Cây Chuỗi Ngọc Chậu Treo",
+  "kichThuoc": "10 – 20 cm",
+  "moTa": "Hình dáng của cây Chuỗi ngọc rất bắt mắt, đi kèm với màu xanh đặc trưng là một loại cây không thể thiếu để trang trí làm hoa chậu với những cành nhánh mềm mại rủ xuống, tạo nên cho không gian một khoảng xanh thoáng mát và trong lành. Có thể dùng Chuỗi ngọc để trang trí cho không gian văn phòng, ở các sảnh hoặc bancông, cũng có thể dùng để trang trí các quán café, nhà hàng… Giỏ Chuỗi ngọc cũng là một gợi ý lý tưởng cho bất cứ ai đang băn khoăn về món quà tăng, Chuỗi ngọc sẽ là một món quà độc đáo, và lý tường cho bất kỳ ai.",
+  "gia": 150000,
+  "hinhAnh": "https://backend-caycanh.onrender.com/41.jpg",
+  "soLuong": 13,
+  "xuatSu": "Mexico, Việt Nam",
+  "maLoai": "HP71746869"
+},
+{
+  "_id": {
+    "$oid": "65f52832de2fd1ea9253a214"
+  },
+  "maSP": "DS92798539",
+  "tenSP": "Cây Lan Hạt Dưa",
+  "kichThuoc": "Cao từ 15 – 20 cm",
+  "moTa": "Cây Lan Hạt Dưa là một loài cây thích hợp trồng chậu treo trang trí giàn treo, ban công, sân thượng, quán cafe,… Lá của lLan Hạt Dưa có những viền vàng ngà tạo cái nhìn chung một màu như cẩm thạch lạ và đẹp. Tuy không có hoa nhưng màu sắc và hình dáng lá lại; cây lan hạt dưa rất được ưa chuộng trong trang trí nội ngoại thất bằng cây cảnh, chậu treo.",
+  "gia": 160000,
+  "hinhAnh": "https://backend-caycanh.onrender.com/42.jpg",
+  "soLuong": 13,
+  "xuatSu": "Nước ngoài",
+  "maLoai": "HP71746869"
+},
+{
+  "_id": {
+    "$oid": "65f52832de2fd1ea9253a215"
+  },
+  "maSP": "MSB5203009",
+  "tenSP": "Cây Hải Đường",
+  "kichThuoc": "Cao từ 15 – 35 cm",
+  "moTa": "Hoa hải đường là loài hoa sở hữu vẻ đẹp rực rỡ và đặc biệt nên được được rất nhiều người yêu thích. Nhắc đến hoa hải đường người ta sẽ nhớ đến một loài hoa có màu sắc tươi tắn, rực rỡ tạo cảm giác ấm áp nhưng không hề chói mắt. Theo quan niệm của người Việt bởi màu đỏ rực rỡ của hoa hải đường khi nở vào mùa xuân nên thường được trưng vào mỗi dịp tết đến xuân về. ",
+  "gia": 85000,
+  "hinhAnh": "https://backend-caycanh.onrender.com/43.jpg",
+  "soLuong": 35,
+  "xuatSu": "Trung Quốc",
+  "maLoai": "HP71746869"
+},
+{
+  "_id": {
+    "$oid": "65f52832de2fd1ea9253a216"
+  },
+  "maSP": "PG65296736",
+  "tenSP": "Cây Hoa Mười Giờ Chậu Treo",
+  "kichThuoc": "Cao từ 15 – 20 cm",
+  "moTa": "Cây hoa mười giờ chậu treo với sắc hoa nổi bật, mới lạ thường được dùng trang trí quán cafe, nhà hàng, ban công, sân thượng… Tô điểm thêm cho không gian trên cao màu sắc hoa lá, đặc biệt loài hoa mười giờ này sẽ cho hoa nở rộ vào khoảng 9h đến 10h sáng.",
+  "gia": 55000,
+  "hinhAnh": "https://backend-caycanh.onrender.com/44.jpg",
+  "soLuong": 31,
+  "xuatSu": "Nam Mỹ",
+  "maLoai": "HP71746869"
+},
+{
+  "_id": {
+    "$oid": "65f52832de2fd1ea9253a217"
+  },
+  "maSP": "CP74534950",
+  "tenSP": "Cây Hoa Triệu Chuông Chậu Treo",
+  "kichThuoc": "Cao từ 30 – 60 cm",
+  "moTa": "Cây Hoa triệu chuông là loài thuộc họ cà, có hoa với đường kính nhỏ hơn, nhưng màu sắc khá đa dạng và vô cùng sai hoa; hoa nở rất dày như hàng loạt chiếc chuông xinh đón nắng mặt trời. Đặc biệt, thời gian chơi hoa rất dài, có thể kéo dài cả năm. Cây hoa triệu chuông có lá nhỏ, màu xanh tươi sáng, hình bầu dục. Là loài có hình dáng, màu sắc và hương thơm độc đáo. Kích thước hoa nhỏ xinh rất thích hợp trồng chậu treo sân thượng, hàng hiên trước nhà, không gian bên cửa sổ,…",
+  "gia": 200000,
+  "hinhAnh": "https://backend-caycanh.onrender.com/45.jpg",
+  "soLuong": 15,
+  "xuatSu": "Châu Mỹ",
+  "maLoai": "HP71746869"
+},
+{
+  "_id": {
+    "$oid": "65f52d63de2fd1ea9253a220"
+  },
+  "maSP": "8277367571",
+  "tenSP": "Đế lót chậu đất nung trắng 8 cm",
+  "kichThuoc": "8 cm",
+  "mauSac": "Trắng",
+  "chatLieu": " Đất nung",
+  "KieuDang": "Dĩa tròn thấp",
+  "hinhAnh": "https://backend-caycanh.onrender.com/1.png",
+  "gia": 5000,
+  "soLuong": 100,
+  "maLoai": "TE57322385"
+},
+{
+  "_id": {
+    "$oid": "65f52d63de2fd1ea9253a221"
+  },
+  "maSP": "7452944910",
+  "tenSP": "Đế lót chậu đất nung đỏ 8 cm",
+  "kichThuoc": "8 cm",
+  "mauSac": "Đỏ",
+  "chatLieu": " Đất nung",
+  "KieuDang": "Dĩa tròn thấp",
+  "hinhAnh": "https://backend-caycanh.onrender.com/2.png",
+  "gia": 5000,
+  "soLuong": 100,
+  "maLoai": "TE57322385"
+},
+{
+  "_id": {
+    "$oid": "65f52d63de2fd1ea9253a222"
+  },
+  "maSP": "3333336067",
+  "tenSP": "Chậu đất nung trắng 5x5",
+  "kichThuoc": "5x5 cm",
+  "mauSac": "Trắng",
+  "chatLieu": " Đất nung",
+  "KieuDang": "Trụ tròn vát",
+  "hinhAnh": "https://backend-caycanh.onrender.com/3.png",
+  "gia": 10000,
+  "soLuong": 82,
+  "maLoai": "TE57322385"
+},
+{
+  "_id": {
+    "$oid": "65f52d63de2fd1ea9253a223"
+  },
+  "maSP": "4659452173",
+  "tenSP": "Chậu đất nung đỏ 5x5",
+  "kichThuoc": "5x5 cm",
+  "mauSac": "Đỏ",
+  "chatLieu": " Đất nung",
+  "KieuDang": "Trụ tròn vát",
+  "hinhAnh": "https://backend-caycanh.onrender.com/7.png",
+  "gia": 10000,
+  "soLuong": 87,
+  "maLoai": "TE57322385"
+},
+{
+  "_id": {
+    "$oid": "65f52d63de2fd1ea9253a224"
+  },
+  "maSP": "4227173889",
+  "tenSP": "Chậu đất nung trắng 13x13",
+  "kichThuoc": "13x13 cm",
+  "mauSac": "Trắng",
+  "chatLieu": " Đất nung",
+  "KieuDang": "Trụ tròn vát",
+  "hinhAnh": "https://backend-caycanh.onrender.com/5.png",
+  "gia": 20000,
+  "soLuong": 81,
+  "maLoai": "TE57322385"
+},
+{
+  "_id": {
+    "$oid": "65f52d63de2fd1ea9253a225"
+  },
+  "maSP": "4032995671",
+  "tenSP": "Chậu đất nung đỏ 13x13",
+  "kichThuoc": "13x13 cm",
+  "mauSac": "Đỏ",
+  "chatLieu": " Đất nung",
+  "KieuDang": "Trụ tròn vát",
+  "hinhAnh": "https://backend-caycanh.onrender.com/9.png",
+  "gia": 20000,
+  "soLuong": 76,
+  "maLoai": "TE57322385"
+},
+{
+  "_id": {
+    "$oid": "65f52d63de2fd1ea9253a226"
+  },
+  "maSP": "5481248786",
+  "tenSP": "Chậu đất nung trắng 17x9",
+  "kichThuoc": "17x9 cm",
+  "mauSac": "Trắng",
+  "chatLieu": " Đất nung",
+  "KieuDang": "Trụ tròn vát thấp",
+  "hinhAnh": "https://backend-caycanh.onrender.com/4.png",
+  "gia": 30000,
+  "soLuong": 70,
+  "maLoai": "TE57322385"
+},
+{
+  "_id": {
+    "$oid": "65f52d63de2fd1ea9253a227"
+  },
+  "maSP": "9089485244",
+  "tenSP": "Chậu đất nung đỏ 17x9",
+  "kichThuoc": "17x9 cm",
+  "mauSac": "Đỏ",
+  "chatLieu": " Đất nung",
+  "KieuDang": "Trụ tròn vát thấp",
+  "hinhAnh": "https://backend-caycanh.onrender.com/8.png",
+  "gia": 30000,
+  "soLuong": 59,
+  "maLoai": "TE57322385"
+},
+{
+  "_id": {
+    "$oid": "65f53001de2fd1ea9253a23d"
+  },
+  "maSP": "ABS2095857",
+  "tenSP": "Chậu nhựa trụ vuông vát lớn",
+  "kichThuoc": "26x24  cm",
+  "mauSac": "Vân gỗ",
+  "chatLieu": "Nhựa ABS",
+  "KieuDang": "Trụ vuông vát",
+  "hinhAnh": "https://backend-caycanh.onrender.com/10.jpg",
+  "gia": 180000,
+  "soLuong": 71,
+  "maLoai": "PS59670186"
+},
+{
+  "_id": {
+    "$oid": "65f53001de2fd1ea9253a23e"
+  },
+  "maSP": "ABS4484187",
+  "tenSP": "Chậu nhựa trụ vuông vát",
+  "kichThuoc": "20x18 cm",
+  "mauSac": "Trắng",
+  "chatLieu": "Nhựa ABS",
+  "KieuDang": "Trụ vuông vát",
+  "hinhAnh": "https://backend-caycanh.onrender.com/11.jpg",
+  "gia": 120000,
+  "soLuong": 85,
+  "maLoai": "PS59670186"
+},
+{
+  "_id": {
+    "$oid": "65f53001de2fd1ea9253a23f"
+  },
+  "maSP": "ABS7176089",
+  "tenSP": "Chậu nhựa cao tròn",
+  "kichThuoc": "20x18 cm",
+  "mauSac": "Trắng",
+  "chatLieu": " Nhựa ABS sơn bóng",
+  "KieuDang": "Cao tròn vát",
+  "hinhAnh": "http://localhost:5000/12.jpg",
+  "gia": 100000,
+  "soLuong": 52,
+  "maLoai": "PS59670186"
+},
+{
+  "_id": {
+    "$oid": "65f5389ede2fd1ea9253a243"
+  },
+  "maSP": "CPS7273866",
+  "tenSP": "Chậu composite trụ vuông vát",
+  "kichThuoc": "32x60 cm",
+  "mauSac": "Trắng",
+  "chatLieu": "Composite sơn bóng",
+  "KieuDang": "Trụ vuông vát",
+  "hinhAnh": "http://localhost:5000/13.jpg",
+  "gia": 1400000,
+  "soLuong": 30,
+  "maLoai": "CM56931108"
+},
+{
+  "_id": {
+    "$oid": "65f5389ede2fd1ea9253a244"
+  },
+  "maSP": "CPS8621583",
+  "tenSP": "Chậu composite tròn đầu đạn vân sóng đứng",
+  "kichThuoc": "30x45 cm",
+  "mauSac": "Trắng",
+  "chatLieu": "Composite sơn bóng",
+  "KieuDang": "Hình tròn giống đầu đạn, trên thân có vân sóng đứng",
+  "hinhAnh": "http://localhost:5000/14.jpg",
+  "gia": 1250000,
+  "soLuong": 51,
+  "maLoai": "CM56931108"
+},
+{
+  "_id": {
+    "$oid": "65f5389ede2fd1ea9253a245"
+  },
+  "maSP": "CPS9071201",
+  "tenSP": "Chậu composite tròn đầu đạn",
+  "kichThuoc": "35x55 cm",
+  "mauSac": "Trắng",
+  "chatLieu": "Composite sơn bóng",
+  "KieuDang": "Hình tròn giống đầu đạn",
+  "hinhAnh": "http://localhost:5000/15.jpg",
+  "gia": 1500000,
+  "soLuong": 41,
+  "maLoai": "CM56931108"
+},
+{
+  "_id": {
+    "$oid": "65f5389ede2fd1ea9253a246"
+  },
+  "maSP": "CPS5089692",
+  "tenSP": "Chậu composite hình trứng vân sóng đứng",
+  "kichThuoc": "35x40 cm",
+  "mauSac": "Đỏ",
+  "chatLieu": "Composite sơn bóng",
+  "KieuDang": "Cao tròn hình trứng, trên thân có vân sóng đứng",
+  "hinhAnh": "http://localhost:5000/16.jpg",
+  "gia": 1250000,
+  "soLuong": 21,
+  "maLoai": "CM56931108"
+},
+{
+  "_id": {
+    "$oid": "65f5389ede2fd1ea9253a247"
+  },
+  "maSP": "CPS9265846",
+  "tenSP": "Chậu composite hình ly miệng vành",
+  "kichThuoc": "40x60 cm",
+  "mauSac": "Trắng",
+  "chatLieu": "Composite sơn bóng",
+  "KieuDang": "Hình ly miệng vành",
+  "hinhAnh": "http://localhost:5000/17.jpg",
+  "gia": 2700000,
+  "soLuong": 19,
+  "maLoai": "CM56931108"
+},
+{
+  "_id": {
+    "$oid": "65f5389ede2fd1ea9253a248"
+  },
+  "maSP": "CPS3318087",
+  "tenSP": "Chậu composite bầu tròn",
+  "kichThuoc": "32x26 cm",
+  "mauSac": "Trắng",
+  "chatLieu": "Composite sơn bóng",
+  "KieuDang": "Bầu tròn",
+  "hinhAnh": "http://localhost:5000/18.jpg",
+  "gia": 550000,
+  "soLuong": 52,
+  "maLoai": "CM56931108"
+}]
